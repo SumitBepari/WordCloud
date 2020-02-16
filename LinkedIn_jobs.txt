@@ -1,0 +1,165 @@
+﻿Data Analyst
+       
+Data collection & Database management: There is a lot of research data which needs to be kept centrally for research team to analyse and benchmark product and brand KPIs.
+Statistical Analysis & Insight Generation : Data needs to be analysed efficiently multiple times to solve business problems, hence an expert is needed to help research team in running analysis and generate meaningful hypothesis and insights
+ 
+Responsibilities
+* Managing and optimizing database and provide support to research team members : Keep structured record of all consumer research data in order to work on analysis and benchmark
+* Proactively help team to analyse varies types of data to find out problem and give suggestion/solution
+* Run standard statistical analysis – Correlation, Regression, Covariance, Annova, descriptive Stats, F-test, Z-test, T-test etc. to support research team in hypothesis testing. Also hands-on with running quick excel analysis like BIP, pivots cross-tabs etc to help research team in insights generation.
+* Supporting in Research Process Management – evaluate research methodology from statistical POV, Attend Researches, Managing communication with agency partners etc.
+
+
+Data Science Analyst
+        
+        Develop data analysis and mathematical models for supply chain improvement for supply chain initiatives. Focusing primarily on network and plan optimization in addition to some predictive analytics, and simulation modeling.
+* Perform data cleaning, quality assessment, pre-processing and analysis.
+* Translate the data into information and insights – with clear scenario analysis and business impact – and execution plan to drive impact.
+* Continue to improve the process and methodology for analytics and modeling for such solutions – building capability within the organization.
+* Frame problems to be solved analytically and own deliverables.
+* Produce sustainable solutions that can be reused with minimal effort and provide a comprehensive documentation and training for users.
+
+
+
+Data Analyst
+Requirements
+* Demonstrated knowledge of inferential statistics
+* 3-5 years experience as an Analyst or similar role with a major reporting component
+* Excellent business acumen
+* Solid understanding of the major KPIs used in the SaaS Industry
+* Fluency with financial terminology and measures
+* Several years experience with Domo, Tableau, or similar BI tool
+* Experience in applying modeling to business problems
+* Excellent SQL skills and ability to wrangle data outside of SQL
+* Strong Python skills, specifically in the area of data analysis (pandas, visualization libraries, jupyter/ipython notebook, etc.)
+* Excellent communication skills and experience interacting directly with senior stakeholders on analytics projects
+* Strong data visualization skills and experience creating highly useful dashboards and reports
+
+
+Bonus
+* Experience working with Google Cloud Platform using Python
+* Experience reporting on web analytics including Mixpanel or Google Analytics
+* Experience reporting on digital marketing data such as Google Ads, Bing Ads, or similar
+* 
+
+Data Analyst
+key Responsibilities
+* Design, build, validate and deliver new reports, dashboards, KPIs and data narratives to the business stakeholder.
+* Ability to Identify, analyze and interpret trends and patterns in data using various techniques to meet business needs.
+* Data extraction from various DB sources through programs to read, write and update the database efficiently.
+* Collaborate with stakeholders to highlight and enrich the data linkages between the different processes.
+* Develop various dashboards for senior management to showcase the data insights effectively in timely manner.
+* Identify, design, and implement internal process improvements; automate manual processes, optimize data delivery, re-designing infrastructure for greater scalability.
+* Work with stakeholders to assist with data-related technical issues and support their data needs.
+* Create workflows with inbuilt quality control checkpoints to automate processes without manual intervention.
+* Prepare reports for senior management Adhoc or pre-defined
+
+Qualifications
+
+
+The candidate should possess strong technical expertise with the ability to build sustainable, collaborative relationships, influence business stakeholders, and lead, motivate and gain commitment from key constituents.
+
+
+Additional Requirements Include
+   * Strong problem solving ability - Candidate needs to exhibit structured thinking, Analytical skills and Process orientation.
+   * Able to process large datasets using tools like SAS/SQL & Python to analyze and create insights.
+   * Able to conduct strong quality control analyses to ensure data quality and integrity
+   * Able to create dashboards on Power BI/Tableau or other web based platforms will be an added advantage.
+   * Strong sense of responsibility, good communication skill, willing to learn.
+It has been and will continue to be the policy of American International Group, Inc., its subsidiaries and affiliates to be an Equal Opportunity Employer. We provide equal opportunity to all qualified individuals regardless of race, color, religion, age, gender, gender expression, national origin, veteran status, disability or any other legally protected categories.
+
+
+At AIG, we believe that diversity and inclusion are critical to our future and our mission – creating a foundation for a creative workplace that leads to innovation, growth, and profitability. Through a wide variety of programs and initiatives, we invest in each employee, seeking to ensure that our people are not only respected as individuals, but also truly valued for their unique perspectives.
+
+Product Analyst/Data Analyst
+Requirements
+1+ years of experience doing quantitative analysis
+Ability to work with large amounts of data: facts, figures, and number crunching.
+Ability to work independently, at times with minimal guidance and ambiguous data to create actionable insights
+Strong communication skills to effectively synthesize, visualize, and communicate your ideas to others.
+
+Desired Skills (Mandatory)
+Excel / Google Sheets
+SQL
+Descriptive statistics
+
+Good To Haves
+R/Python
+BI tools like Domo, Tableau
+What do we offer?
+zeotap is the very first company globally that has built cross-carrier data monetization models across markets, achieving powerful scale at high-quality. Become a key member in this very ambitious environment with a clear long-term vision and strategy
+Work in one of the most advanced technology companies to embrace privacy as a unique selling proposition and to differentiate through a truly customer-centric approach across global markets
+Join a highly diverse team that values trustworthiness, agility, and a pioneer spirit
+We are very selective of our people, both on performance and cultural fit: You will enjoy working with the very best talent that is working together in a team
+Work with very driven entrepreneurs and a network of global senior investors across telco, data, advertising, and technology
+A platform for you to grow yourself with maximum speed with zero political obstacles and make real impact
+Enjoy competitive remuneration and an attractive benefits package
+
+
+Senior Data Analyst, GI- Actuarial Data Analytics
+
+Bangalore, India
+
+We are seeking an associate manager to work within AIG’s GI actuarial data team. The position expects good business acumen and strong stakeholder management capabilities along with specialization in data extraction, manipulation, analysis reporting concepts and tools.
+
+Key Responsibilities
+Work with stakeholders to gather business requirement and leverage analytical experience to suggest feasibility and technical approaches to fulfill the requirement.
+Identify and present analytical findings and opportunities for continues improvements to stakeholders.
+Proven ability to work on ad-hocs reports within aggressive timeline.
+Design, build, validate and deliver new reports, dashboards, KPIs and data narratives to the business stakeholder.
+Ability to Identify, analyze and interpret trends and patterns in data using various techniques to meet business needs.
+Identify, design, and implement internal process improvements; automate manual processes, optimize data delivery, re-designing infrastructure for greater scalability.
+Work with stakeholders to assist with data-related technical issues and support their data needs.
+Data extraction from various DB sources through programs to read, write and update the database efficiently.
+
+Qualifications
+
+The candidate should possess strong technical expertise with the ability to build sustainable, collaborative relationships, influence business stakeholders, and lead, motivate and gain commitment from key constituents.
+
+Additional Requirements Include
+Hands-on experience in data analytics, Project management and development.
+Strong problem solving ability - Candidate needs to exhibit structured thinking, Analytical skills and Process orientation.
+Strong in reporting, Visualization and Automation
+Experience in processing large datasets using tools like SAS, SQL & Python / R to analyze and create insights.
+Able to conduct strong quality control analyses to ensure data quality and integrity
+Able to create dashboards on Power BI & other web based platforms will be an added advantage.
+
+Assistant Manager - Data Analytics
+
+Responsibilities
+Understanding of business processes and potential risk scenarios.
+Ability to conceptualize appropriate logic for analyzing potential risk scenarios
+Ability to understand requirements clearly and to be flexible in learning new data sources and technologies, meeting tight deadlines, and delivering quality reports for auditors.
+Maintain client focus by building positive relationships with clients, scheduling, conducting and presenting on key client meetings.
+Should be able to write/optimize complex scripts in the technology of expertise. Should be able to review results and identify false positives basis business understanding
+Should be a self-starter and eager to tackle business problem using experience and skills
+Play a key role in the development of less expert staff through mentoring, training and advising.
+30% Travel in India and Overseas, if required
+Superb communication skills and willingness to stretch and multi-task
+May be assigned on a project on a long term basis.
+Responsibilities include handling projects involving audit analytics and continuous control monitoring.
+Understanding of business process (Accounts Payable, Revenue, Fixed Asset, Inventory, MJEs) from analytics requirements.
+Understanding of ERPs (SAP\ JDE\ Oracle\ Concur etc.)
+Have worked on data analytics support work either as tool implementation, automation of control or MIS development
+Qualifications
+
+Minimum Qualifications
+Post Graduates – M.Com or M.Sc (IT) or MBA (IT)
+Meaningful experience in related field of Audit\ Business \ financial analytics (Non-banking).
+Preferred qualifications
+Knowledge of analytical tools - ACL, QlikView/Tableau/Spotfire, SQL, VBA – Should have any 2 or more
+Knowledge of IDEA , GRC Solutions
+Hands on experience on data analytics.
+
+Senior Data Analyst
+Requirements
+Strong in Python - pandas, NumPy, derive simple statistical analysis, create data visualisations, basic data structures
+Strong in SQL
+Excel - vLookup/Index, Pivots, Visualisations. Good to have knowledge on VBA Macros
+Knowledge on Data Warehouse concepts
+Knowledge on any BI Tool (like Redash, Microstrategy, Tableau, Chartio, etc)
+Knowledge on Cloud services (Optional)
+
+This job was posted by Sheethal Sadanandan from KrazyBee.
+Desired Skills and Experience
+Python,Microsoft Excel,Data Analysis,SQL,NumPy
